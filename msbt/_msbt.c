@@ -2,7 +2,7 @@
 #define UNICODE
 #endif
 
-#include <winsock2.h>
+#include <WinSock2.h>
 #include <ws2bth.h>
 #include <BluetoothAPIs.h>
 
